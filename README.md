@@ -10,3 +10,4 @@ Repositório do laboratório da disciplina de C214
 - npx tsc --init
 - npm install -D ts-node-dev
 - npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-standard
+- npm install --save-dev jest @types/jest ts-jest (para testes unitários)
