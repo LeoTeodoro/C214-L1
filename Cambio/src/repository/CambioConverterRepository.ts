@@ -4,5 +4,8 @@ type Response = {
     error: unknown
 }
 export interface CambioConverterRepository {
-    getCotacao (moeda: string): Response
+    add (cotacao: Cotacao): Response
+    getCotation (code: string): Response
+    update (cotacao: Cotacao): Response
+    delete (code: string) : Response
 }
