@@ -2,6 +2,7 @@
 Repositório do laboratório da disciplina de C214
 
 ![cambio workflow](https://github.com/Inatel-C214/ToDoList/actions/workflows/cicd.yml/badge.svg)
+![Cambio teste](https://github.com/LeoTeodoro/C214-L1/actions/workflows/cicd.yml/badge.svg)
 
 - nvm install 20.11.1 (instala a versão do node)
 - nvm use 20.11.1 
